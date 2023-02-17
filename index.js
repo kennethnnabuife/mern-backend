@@ -15,8 +15,8 @@ app.use(
     origin: [
       "http://localhost:3000",
       "https://mern-task-app.onrender.com",
-      "http://sample.sabiweb.com",
-      "https://sample.sabiweb.com",
+      "https://63ef968c8b8cda0fae2b450a--delightful-strudel-389463.netlify.app",
+      "https://mern-task-app-4nzx.onrender.com",
     ],
   })
 );
